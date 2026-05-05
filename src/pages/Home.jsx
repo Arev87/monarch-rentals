@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 function Home() {
   return (
     <main className="homePage">
@@ -16,7 +18,7 @@ function Home() {
                 <p>
                     Experience the epitome of opulence and ease at The Monarch, where luxury seamlessly intertwines with convenience. Our meticulously curated amenities transcend mere comforts, offering a lifestyle tailored to your desires. Embrace a world where every moment is a celebration of indulgence and satisfaction, as we redefine luxury living with your ultimate comfort in mind.
                 </p>
-                <a href="amenities.html">LEARN MORE</a>
+                <Link to="/amenities">LEARN MORE</Link>
             </div>
         </div>
     </section>
@@ -30,7 +32,7 @@ function Home() {
                 <p>
                     Discover the realm of light and luxury within our elegant homes, where floor-to-ceiling windows welcome natural light and unveil captivating vistas of the New York City skyline. These panoramic scenes, a fusion of nature and urbanity, imbue each moment with a sense of sophistication and grandeur, painting a picturesque backdrop to your daily life. Experience a canvas of serenity and opulence as you step into our residences.
                 </p>
-                <a href="interiors.html">LEARN MORE</a>
+                <Link to="/interiors">LEARN MORE</Link>
             </div>
         </div>
     </section>
@@ -48,7 +50,7 @@ function Home() {
             <p>
                 Ensconced in a central location, The Monarch offers residents remarkable access to the vibrant heart of Jamaica, Queens, and beyond. With unparalleled proximity to transportation hubs and urban amenities, every convenience is at your fingertips, ensuring effortless exploration and connectivity. Experience the epitome of cosmopolitan living, where the pulse of the city meets the tranquility of home.
             </p>
-            <a href="neighborhood.html">LEARN MORE</a>
+            <Link to="/neighborhood">LEARN MORE</Link>
         </div>
     </section>
 
