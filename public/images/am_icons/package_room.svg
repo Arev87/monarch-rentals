@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_466" data-name="Rectangle 466" width="102" height="102" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_944" data-name="Group 944" transform="translate(-994 -2520)">
+    <path id="Path_684" data-name="Path 684" d="M32.166,35.573,49.377,45.51l17.211-9.937" transform="translate(1009.486 2537.181)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_186" data-name="Line 186" y1="19.874" transform="translate(1058.864 2582.691)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Group_935" data-name="Group 935" transform="translate(9)">
+      <g id="Group_919" data-name="Group 919" transform="translate(985 2520)">
+        <g id="Group_918" data-name="Group 918" clip-path="url(#clip-path)">
+          <rect id="Rectangle_465" data-name="Rectangle 465" width="99.944" height="99.944" transform="translate(1.027 1.027)" fill="none" stroke="#35434c" stroke-width="2.058"/>
+        </g>
+      </g>
+      <g id="Group_934" data-name="Group 934">
+        <path id="Path_683" data-name="Path 683" d="M66.588,58.748V38.874L49.377,28.937,32.166,38.874V58.748l17.211,9.937Z" transform="translate(1000.486 2533.88)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_685" data-name="Path 685" d="M31.569,16.528H49.674v13.5" transform="translate(1000.189 2527.708)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_686" data-name="Path 686" d="M35.744,83.287l-22.094-12.4V22.3L35.744,9.9Z" transform="translate(991.276 2524.409)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_187" data-name="Line 187" y2="8.052" transform="translate(1021.714 2567.692)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

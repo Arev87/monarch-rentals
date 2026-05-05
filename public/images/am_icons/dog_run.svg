@@ -1,0 +1,14 @@
+<svg id="Group_581" data-name="Group 581" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_312" data-name="Rectangle 312" width="102" height="102" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_580" data-name="Group 580" clip-path="url(#clip-path)">
+    <rect id="Rectangle_311" data-name="Rectangle 311" width="99.943" height="99.943" transform="translate(1.028 1.028)" fill="none" stroke="#35434c" stroke-width="2.058"/>
+    <path id="Path_379" data-name="Path 379" d="M73.951,67.576l-2.142,1.579q-1.862-1.562-3.707-3.111a10.369,10.369,0,0,1-1.283-1.1c-1.6-1.87-3.693-2.152-6.026-2.368a30.21,30.21,0,0,0-11.715,1.449C44.2,65.5,39.259,66.766,34.335,68.085A1.932,1.932,0,0,0,32.8,69.617c-.362,1.43-.774,2.849-1.181,4.268a4.805,4.805,0,0,1-4.612,3.8c-1.332.114-2.667.207-4,.354a3.168,3.168,0,0,0-2.87,2.3c-.565,1.838-.994,3.718-1.51,5.69L16.815,85.4c.877-3.171,1.709-6.287,2.61-9.383a2.523,2.523,0,0,1,2.189-1.748,3.8,3.8,0,0,0,3.447-4.281c-.089-2.04-.251-4.076-.413-6.112-.089-1.119-.688-1.569-1.988-1.437A6.022,6.022,0,0,1,17.1,60.3c-1.755-2.078-1.749-5.43-.135-7.125a9.07,9.07,0,0,0,4.623,5.874c1.792.933,2.244.806,3.286-.926a5.4,5.4,0,0,1,2.971-2.233c4.783-1.761,9.554-3.555,14.336-5.318a6.652,6.652,0,0,0,4.689-6.242c.193-2.632.653-5.253.7-7.884a45.824,45.824,0,0,0-.622-5.955c-.043-.378-.108-.753-.162-1.123A2.327,2.327,0,0,1,49.553,30.6c1.871,3.3,3.485,4.074,7.271,3.606,2.229-.275,4.469-.465,6.688-.691,1.074,3.165.3,4.911-2.675,6.188a5.6,5.6,0,0,0-3.34,6.282c.614,3.068,1.28,6.127,1.881,9.2a2.325,2.325,0,0,0,1.5,1.858c1.777.761,3.5,1.643,5.281,2.4a6.321,6.321,0,0,1,2.907,2.346,12.863,12.863,0,0,0,.958,1.259C71.312,64.55,72.617,66.041,73.951,67.576Z" transform="translate(-0.009 -0.017)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_380" data-name="Path 380" d="M81.056,16a5.279,5.279,0,1,1-5.329,5.189A5.3,5.3,0,0,1,81.056,16Z" transform="translate(-0.043 -0.009)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_73" data-name="Line 73" y1="3.853" x2="4.829" transform="translate(68.222 24.978)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_74" data-name="Line 74" y1="3.853" x2="4.829" transform="translate(70.636 27.833)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

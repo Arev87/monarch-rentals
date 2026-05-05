@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_427" data-name="Rectangle 427" width="102" height="102" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_950" data-name="Group 950" transform="translate(-654 -2740)">
+    <g id="Group_927" data-name="Group 927" transform="translate(-3770.343 -6.62)">
+      <g id="Group_880" data-name="Group 880" transform="translate(4424.343 2746.62)">
+        <g id="Group_879" data-name="Group 879" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_426" data-name="Rectangle 426" width="99.944" height="99.944" transform="translate(1.027 1.027)" fill="none" stroke="#35434c" stroke-width="2.058"/>
+        </g>
+      </g>
+      <path id="Path_627" data-name="Path 627" d="M54.36,410.541l9.991,18.848c3.128,9.549-2.921,11.581-3.4,22.424l-6.481,3.437c-9.244-5.69-14.321-1.822-20.47-9.771L24.009,426.63a7.149,7.149,0,0,1,2.966-9.669l17.718-9.393A7.15,7.15,0,0,1,54.36,410.541Z" transform="translate(4435.356 2356.763)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_428" data-name="Rectangle 428" width="7.244" height="22.356" transform="translate(4489.865 2811.99) rotate(-27.932)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_429" data-name="Rectangle 429" width="7.244" height="3.513" transform="translate(4489.865 2811.99) rotate(-27.932)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_430" data-name="Rectangle 430" width="7.244" height="3.513" transform="translate(4498.689 2828.638) rotate(-27.932)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_628" data-name="Path 628" d="M31.011,445.716a8.806,8.806,0,0,1-6.729,8.523,9.37,9.37,0,0,1-2.075.247,8.806,8.806,0,0,1-8.523-6.729,8.786,8.786,0,0,1,17.081-4.127A8.936,8.936,0,0,1,31.011,445.716Z" transform="translate(4430.513 2371.775)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_629" data-name="Path 629" d="M21.786,443.407a1.868,1.868,0,0,1-1.423,1.812,2.289,2.289,0,0,1-.449.045,1.819,1.819,0,0,1-.958-.27,1.848,1.848,0,0,1-.854-1.153,1.966,1.966,0,0,1,.225-1.423,1.922,1.922,0,0,1,1.153-.839,1.875,1.875,0,0,1,2.261,1.378,2.286,2.286,0,0,1,.045.449" transform="translate(4432.811 2374.071)" fill="#35434c"/>
+      <path id="Path_630" data-name="Path 630" d="M23.35,441.825a1.1,1.1,0,0,1-.854.359,1.372,1.372,0,0,1-.24-.015,2,2,0,0,1-1.078-.539,1.547,1.547,0,0,1-.464-2.126,1.544,1.544,0,0,1,2.171.195,1.563,1.563,0,0,1,.464,2.126" transform="translate(4434.003 2372.883)" fill="#35434c"/>
+      <path id="Path_631" data-name="Path 631" d="M18.955,447.065a1.1,1.1,0,0,1-.854.359,1.212,1.212,0,0,1-.24-.015,2.277,2.277,0,0,1-1.093-.539,2.139,2.139,0,0,1-.659-1,1.129,1.129,0,0,1,.193-1.123,1.564,1.564,0,0,1,2.188.195,2.258,2.258,0,0,1,.659,1,1.208,1.208,0,0,1-.195,1.123" transform="translate(4431.81 2375.489)" fill="#35434c"/>
+      <path id="Path_632" data-name="Path 632" d="M23.723,445.668a2.141,2.141,0,0,1-.644,1.033,2.047,2.047,0,0,1-1.333.584,1.128,1.128,0,0,1-.839-.344,1.084,1.084,0,0,1-.27-.734,1.977,1.977,0,0,1,.689-1.408,2.294,2.294,0,0,1,1.078-.569,1.2,1.2,0,0,1,1.093.314,1.139,1.139,0,0,1,.225,1.123" transform="translate(4434.095 2375.404)" fill="#35434c"/>
+      <path id="Path_633" data-name="Path 633" d="M18.966,440.758a2.234,2.234,0,0,1-.645,1.018,2.009,2.009,0,0,1-1.348.584,1.106,1.106,0,0,1-.824-.329,1.569,1.569,0,0,1,.419-2.156,2.2,2.2,0,0,1,1.078-.554,1.1,1.1,0,0,1,1.319,1.438" transform="translate(4431.724 2372.961)" fill="#35434c"/>
+      <line id="Line_147" data-name="Line 147" x2="8.693" y2="16.073" transform="translate(4463.905 2782.929)" fill="none" stroke="#35434c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
