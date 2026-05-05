@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import Swiper from 'swiper';
 import { EffectCoverflow, Pagination } from 'swiper/modules';
+import { Link } from 'react-router-dom';
 
 function Amenities() {
     const swiperRef = useRef(null);
@@ -230,7 +231,7 @@ function Amenities() {
         </div>
     </section>
     <section className="bg_active_color center linked_module">
-        <a href="amenities_at_a_glance.html">AMENITIES AT A GLANCE</a>
+        <Link to="/">AMENITIES AT A GLANCE</Link>
     </section>
     <section className="slider_card">
         {/* Swiper */}
@@ -320,7 +321,7 @@ function Amenities() {
         </div>
     </section>
 </main>
-  )
+    )
 }
 
-export default Amenities;
+export default Amenities;
